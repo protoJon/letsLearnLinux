@@ -1,10 +1,23 @@
 Basic information regarding Linux origins, common practices, and general tips.
 
 Best viewed with word wrap enabeled.
-Authors: protoJon(pJ), 
+Authors: protoJon(lpJ), 
 
-(pJ): {
-//Most information I will present in this document has been garnered from 'Intro to Linux' offered freely at edx.org
+(lpJ): {
+--FS BASICS: Linux treats just about everything as file-- http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/
+Typical Linux distrobutions follow the unified filesystem set forth by the FSSTND and will have the following directories:
+/root - the superuser profile directory
+/home - the user(s) directory (/home/$USER)
+/bin  - Contains essential binaries for single user functions
+/sbin - Contains binaries essential for admin-specific functions
+/boot - Everything required for the boot process. (vmlinuz, initramfs, config, [...])
+/dev  - Contains device files. 
+/etc  - Contain system config files and scripts.
+/lib  - Contains kernel modules, program dependencies, and the C programming directory.
+/media- Typically reserved for CD, DVD, and USB drive
+/mnt  - 
+/initrd  - 
+/usr/bin - Contains non essential commands
 
-
+The FileSystem hierarchy standard grew out of historical standards from early verions of Unix systems, such as the Berkeley Software Distrobution. 
 }
