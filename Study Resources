@@ -3,8 +3,17 @@ Basic information regarding Linux origins, common practices, and general tips.
 Best viewed with word wrap enabeled.
 Authors: protoJon(lpJ), 
 
-(lpJ): {
---FS BASICS: Linux treats just about everything as file-- http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/
+Thank you for viewing our documentation. We will surmount the arduous task of developing a linux distrobution from the kernel up! This will be a challenge and may take a considerable sum of time, but through the process we will become intimately familiar with the inner workings of how our systems work. Knowledge is the greatest investment. If you are not yet familiar with some of the core ideas associated with Linux, I highly reccoment you take a look at some of the following documentation. 
+
+Resources:
+http://www.linuxfromscratch.org/ - I have not reviewed this resource and cannot yet attest to its usefulness
+http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/ - excellent and highly accurate overview of the standard Linux filesystem standard.
+https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0 ~Supremely~ valuable resource. Offerd for FREE. Supported by the Free Linux Foundation and endorsed by the Linus Torvald himself.
+
+
+
+
+--FS BASICS: Linux treats just about everything as file-- 
 Typical Linux distrobutions follow the unified filesystem set forth by the FSSTND and will have the following directories:
 /root - the superuser profile directory
 /home - the user(s) directory (/home/$USER)
