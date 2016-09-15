@@ -3,15 +3,15 @@ Basic information regarding Linux origins, common practices, and general tips.
 Best viewed with word wrap.
 Authors: protoJon(lpJ), 
 
-Thank you for viewing our documentation. We will embark on a journey to develop a linux distrobution from the kernel onward! This will be an arduous quest and may take a considerable sum of time- but through the process we will become intimately familiar with the inner workings of our systems. No doubt there will be bumps in the road when we arrive at gaps of knowledge. The objective of this page is to be a roadmap where we can track our progress and cite our resources. 
+Thank you for viewing our documentation. We will embark on a journey to develop a linux distrobution from the kernel onward. This will be an arduous quest and may take a considerable sum of time- but through the process we will become intimately familiar with the inner workings of our systems. No doubt there will be bumps in the road when we arrive at gaps of knowledge. The objective of this page is to be a roadmap where we can track our progress and cite our resources. 
 
 Resources:
 
 Where should I begin?
 https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0 ~Supremely~ valuable resource. Offered for FREE. Supported by the Free Linux Foundation and endorsed by the Linus Torvald himself. This course is an excellent place to begin understanding Linux, or a great refresher.
 
-http://www.linuxfromscratch.org/ - I have not reviewed this resource and cannot yet attest to its usefulness
-http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/ - excellent and highly accurate overview of the Linux filesystem standard.
+http://www.linuxfromscratch.org/ - 
+http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/ - overview of the Linux filesystem standard.
 
 
 
